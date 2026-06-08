@@ -1,4 +1,4 @@
-# Hello / Hola / はじめまして! I'm José Luis Rejón 👋
+## Hello / Hola / はじめまして! I'm José Luis Rejón 👋
 
 I'm a **Data Engineering and Artificial Intelligence student** at Universidad Politécnica de Yucatán (UPY) — characterized by a strong spirit of perseverance and building toward a career as an **Analytics / Data Engineer** within the AWS ecosystem.
 
