@@ -1,8 +1,8 @@
-# Hello / Hola / はじめまして! I'm José Luis Rejón 👋
+# Hello / Hola / はじめまして! I'm José Rejón 👋
 
 I'm a **Data Engineering and Artificial Intelligence student** at Universidad Politécnica de Yucatán (UPY), characterized by a strong spirit of perseverance and building toward a career as an **Analytics / Data Engineer** within the AWS ecosystem ☁️.
 
-Currently finishing my TSU en Ciencia de Datos degree while shipping real-world projects involving robust ETL pipelines, cloud infrastructure, API integrations, and data visualization. 🏆 1st place at the State Basic Sciences Knowledge Contest (DGUTyP) and active Representative & Event Organizer for the UPY AWS Club.
+Currently finishing my TSU en Ciencia de Datos degree while shipping real-world projects involving robust ETL pipelines, cloud infrastructure, API integrations, and data visualization. 1st place at the State Basic Sciences Knowledge Contest (DGUTyP) and active Representative & Event Organizer for the UPY AWS Club.
 
 ---
 
@@ -46,7 +46,7 @@ Currently finishing my TSU en Ciencia de Datos degree while shipping real-world 
 
 ---
 
-## 📫 Find me
+## Find me
 
 | | |
 |---|---|
@@ -54,4 +54,4 @@ Currently finishing my TSU en Ciencia de Datos degree while shipping real-world 
 | 🌐 **LinkedIn** | [linkedin.com/in/jose-rejon](https://linkedin.com/in/jose-rejon) |
 | 📧 **Email** | userejon033@gmail.com |
 
-> 🌎 Spanish (Native) · English (Advanced B2 - ITEP) · Japanese (Basic) — Ready to build the confidence your company needs to grow.
+> 🌎 Spanish (Native) · English (Advanced B2 - ITEP) · Japanese (Basic) 
